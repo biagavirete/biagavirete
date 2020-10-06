@@ -1,16 +1,15 @@
-### Hi there 👋
+# <a href="https://www.linkedin.com/in/beatriz-gavira/">Beatriz Gavira</a>
 
-<!--
-**biagavirete/biagavirete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+28-year old lawyer with a great desire to change my professional path, I decided to challenge myself in entering the tech world.
+<br>
+Currently studying to become a Full Stack Developer.
 
-Here are some ideas to get you started:
+## Technologies
+- Front-end: HTML, CSS, JS, React
+- Back-end: Node, Express
+- Mobile: React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- <a href="https://www.linkedin.com/in/beatriz-gavira/">LinkedIn</a>
+- <a href="mailto:biagavirete@gmail.com">E-mail</a>
