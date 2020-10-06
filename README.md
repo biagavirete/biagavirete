@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/beatriz-gavira/">Beatriz Gavira</a>
 
 ## About me
-28-year old lawyer with a great desire to change my professional path, I decided to challenge myself in entering the tech world.
+Eager learner lawyer with a great desire to change my professional path, I decided to challenge myself in entering the tech world.
 <br>
 Currently studying to become a Full Stack Developer.
 
