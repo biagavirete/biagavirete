@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/beatriz-gavira/">Beatriz Gavira</a>
 
 ## About me
-Eager learner lawyer with a great desire to change my professional path, I decided to challenge myself in entering the tech world.
+Eager learner with a great desire to change my professional path, I decided to challenge myself to break into tech.
 <br>
 Currently studying to become a Full Stack Developer.
 
