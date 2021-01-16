@@ -10,5 +10,5 @@ Currently studying to become a Full Stack Developer.
 
 ## Technologies
 - Front-end: HTML, CSS, JS, TS, React
-- Back-end: Node, JS, TS, Express
+- Back-end: Node, JS, TS
 - Mobile: React Native
