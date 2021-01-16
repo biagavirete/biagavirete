@@ -6,7 +6,7 @@
 ## About me
 Eager learner with a great desire to change my professional path, I decided to challenge myself to break into tech.
 <br>
-Currently studying to become a Full Stack Developer.
+Currently studying to become a Front-end Developer.
 
 ## Technologies
 - Front-end: HTML, CSS, JS, TS, React
