@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/beatriz-gavira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/beatriz-gavira/"> </a>
 <a href="mailto:biagavirete@gmail.com"> <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&link=mailto:biagavirete@gmail.com"> </a>
-<a href="https://discord.gg/gavirete#4304"> <img src="https://img.shields.io/badge/Discord-blueviolet?style=flat&logo=discord&labelColor=blueviolet&link=https://discord.gg/gavirete#4304"> </a>
+
 </p>
 <h2 align="left">Languages and Tools:</h2>
 <strong>Programming Languages:</strong><br>
