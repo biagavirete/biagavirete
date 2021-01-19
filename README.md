@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Bia! Welcome 👋</h1>
 <h3 align="center">Eager learner with a great desire to change my professional path, I decided to challenge myself to break into tech. Currently studying to become a Frontend Developer.</h3>
 
-<br><br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/beatriz-gavira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/beatriz-gavira/"> </a>
