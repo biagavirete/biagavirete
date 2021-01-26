@@ -3,12 +3,13 @@
 
 <img src="https://github.com/biagavirete/biagavirete/blob/main/766_1-removebg-preview.png" min-width="350px" max-width="350px" width="350px" align="right">
 
+<h2 align="left">Contact me:</h2>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/beatriz-gavira/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-gavira/" /></a>
 
   <a href="mailto:biagavirete@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-3b5998?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 
@@ -28,6 +29,6 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
 <strong>Mobile App Development:</strong>
 <p align="left">  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biagavirete&show_icons=true&locale=en&layout=compact" alt="biagavirete" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biagavirete&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="biagavirete" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=biagavirete&show_icons=true&locale=en" alt="biagavirete" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=biagavirete&theme=tokyonight&show_icons=true&locale=en" alt="biagavirete" /></p>
