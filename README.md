@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bia! Welcome 👋</h1>
-<h3 align="center">Eager learner with a great desire to change my professional path, I decided to challenge myself to break into tech. Currently studying to become a Front-end Developer.</h3>
+<h3 align="center">Eager learner with a great desire to change my professional path, I decided to challenge myself to break into tech. Currently working on improving my front-end web development skills.</h3>
 
 <img src="https://github.com/biagavirete/biagavirete/blob/main/766_1-removebg-preview.png" min-width="350px" max-width="350px" width="350px" align="right">
 
