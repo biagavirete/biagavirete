@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bia! Welcome 👋</h1>
-<h3 align="center">Eager learner with a great desire to change my professional path, I decided to challenge myself to break into tech. Currently working on improving my front-end development skills.</h3>
-
-<img src="https://github.com/biagavirete/biagavirete/blob/main/766_1-removebg-preview.png" min-width="350px" max-width="350px" width="350px" align="right">
+<p align="left">:bee: Currently working as a Frontend Developer @ BEES Brasil | AB InBev</br>
+:woman_technologist: Self-taught programmer working on improving my front-end development skills</br>
+:balance_scale: Used to be a lawyer but tech is my real passion </p>
 
 <h2 align="left">Contact me:</h2>
 <p align="left"> 
