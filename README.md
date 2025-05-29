@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Bia! Welcome 👋</h1>
-<p align="left">:bee: Currently working as a Frontend Developer @ BEES Brasil | AB InBev</br>
 :woman_technologist: Self-taught programmer working on improving my front-end development skills</br>
 :balance_scale: Used to be a lawyer but tech is my real passion </p>
 
